@@ -1,2 +1,0 @@
-/home/ubuntu/workspace/cuTDA/build/CMakeFiles/edit_cache.dir
-/home/ubuntu/workspace/cuTDA/build/CMakeFiles/rebuild_cache.dir
