@@ -4,3 +4,10 @@
 *.ptx
 *.cubin
 *.fatbin
+*.so
+*.exe
+*.o
+*~
+\#*
+!.gitkeep
+bulid/*
